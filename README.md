@@ -1,8 +1,8 @@
-# GitHub_Track
+# GitHub Track
 
-## skills learning and practicing repositories
+## Skills Learning and Practicing Repositories:
 
-| Sl Number |      Project Name      |               Description                |
+| Sl Number |      Repositories Name      |               Description                |
 | ----------| ---------------------- | ---------------------------------------- |
 |     1     | [Python_Basics](https://github.com/ramasureshvijjana/Python_Basics) | All Python basic topics |
 |     2     | [Data_Science](https://github.com/ramasureshvijjana/Data_Science)| All Data Science topics|
@@ -11,3 +11,8 @@
 |     5     | [NLP](https://github.com/ramasureshvijjana/NLP) | All NLP basic topics |
 |     6     | [Statistics](https://github.com/ramasureshvijjana/Statistics) | All Statistics topics |
 |     7     | [SQL_Basics](https://github.com/ramasureshvijjana/SQL_Basics) | All SQL Basics topics |
+
+## Projects:
+
+| Sl Number |      Project Name      |               Description                |
+| ----------| ---------------------- | ---------------------------------------- |
