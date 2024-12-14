@@ -9,10 +9,17 @@
 |     3     | [Machine_Learning](https://github.com/ramasureshvijjana) | All ML topics |
 |     4     | [Deep_Learning](https://github.com/ramasureshvijjana) | All Deep Learning topics |
 |     5     | [NLP](https://github.com/ramasureshvijjana/NLP) | All NLP basic topics |
-|     6     | [Statistics](https://github.com/ramasureshvijjana/Statistics) | All Statistics topics |
-|     7     | [SQL_Basics](https://github.com/ramasureshvijjana/SQL_Basics) | All SQL Basics topics |
+|     6     | [LLM_course_from_KN](https://github.com/ramasureshvijjana/LLM_course_from_KN) | All LLM basic topics |
+|     7     | [Statistics](https://github.com/ramasureshvijjana/Statistics) | All Statistics topics |
+|     8     | [SQL_Basics](https://github.com/ramasureshvijjana/SQL_Basics) | All SQL Basics topics |
 
-## Projects:
+## GenAI and LLM Projects:
+
+| Sl Number |      Project Name      |               Description                |               Product link                |
+| ----------| ---------------------- | ---------------------------------------- |---------------------------------------- |
+|     1     | [Language_Translator](https://github.com/ramasureshvijjana/Language_Translator) | Tins tool translates one language to another language. ||
+
+## NLP Projects:
 
 | Sl Number |      Project Name      |               Description                |
 | ----------| ---------------------- | ---------------------------------------- |
