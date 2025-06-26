@@ -21,6 +21,19 @@ Enjoy exploring, practicing, and building your knowledge!
 
 ---
 
+## 🧩 Python Logical Programs
+
+| 🔢 Sl Number | 🗂️ Main Topic | 📝 Description | 🌐 Product Link |
+|:-----------:|:-------------:|:--------------|
+| 1 | [🔢 Number Systems](https://github.com/ramasureshvijjana/Python_Basics/tree/main/python_logical_programs/01_Number_systems) | Programs related to number theory, prime numbers, factorials, etc. |
+| 2 | 🔤 Strings | String manipulations, palindromes, anagrams, etc. |
+| 3 | 🔄 Loops & Patterns | Logical problems using loops such as pattern printing, Fibonacci, etc. |
+| 4 | 🗃️ Lists & Tuples | Programs involving lists, tuples, sorting, searching, etc. |
+| 5 | 🧮 Mathematical | Mathematical and arithmetic logic challenges. |
+| 6 | 🧰 Miscellaneous | Other logical problems and puzzles. |
+
+---
+
 ## 🤖✨ GenAI and LLM Projects
 
 | 🔢 Sl Number | 💡 Project Name | 📝 Description | 🌐 Product Link |
