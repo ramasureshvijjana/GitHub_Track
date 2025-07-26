@@ -10,14 +10,15 @@ Enjoy exploring, practicing, and building your knowledge!
 
 | 🔢 Sl Number | 📦 Repositories Name | 📝 Description |  
 |:-----------:|:---------------------|:--------------|
-| 1 | [🐍 Python_Basics](https://github.com/ramasureshvijjana/Python_Basics) | All Python basic topics |
-| 2 | [📊 Data_Science](https://github.com/ramasureshvijjana/Data_Science) | All Data Science topics |
-| 3 | [🤖 Machine_Learning](https://github.com/ramasureshvijjana) | All ML topics |
-| 4 | [🧠 Deep_Learning](https://github.com/ramasureshvijjana) | All Deep Learning topics |
-| 5 | [💬 NLP](https://github.com/ramasureshvijjana/NLP) | All NLP basic topics |
-| 6 | [🦙 LLM_course_from_KN](https://github.com/ramasureshvijjana/LLM_course_from_KN) | All LLM basic topics |
-| 7 | [📈 Statistics](https://github.com/ramasureshvijjana/Statistics) | All Statistics topics |
-| 8 | [🗄️ SQL_Basics](https://github.com/ramasureshvijjana/SQL_Basics) | All SQL Basics topics |
+| 1 | [🐍 Python_Basics](https://github.com/ramasureshvijjana/Python_Basics) | All Python basic topics |  
+| 2 | [🐍 Python_Logical_Programs](https://github.com/ramasureshvijjana/Python_Basics/tree/main/python_logical_programs) | All Python Logical Programs |
+| 3 | [📊 Data_Science](https://github.com/ramasureshvijjana/Data_Science) | All Data Science topics |
+| 4 | [🤖 Machine_Learning](https://github.com/ramasureshvijjana) | All ML topics |
+| 5 | [🧠 Deep_Learning](https://github.com/ramasureshvijjana) | All Deep Learning topics |
+| 6 | [💬 NLP](https://github.com/ramasureshvijjana/NLP) | All NLP basic topics |
+| 7 | [🦙 LLM_course_from_KN](https://github.com/ramasureshvijjana/LLM_course_from_KN) | All LLM basic topics |
+| 8 | [📈 Statistics](https://github.com/ramasureshvijjana/Statistics) | All Statistics topics |
+| 9 | [🗄️ SQL_Basics](https://github.com/ramasureshvijjana/SQL_Basics) | All SQL Basics topics |
 
 ---
 
