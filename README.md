@@ -53,17 +53,15 @@ Enjoy exploring, practicing, and building your knowledge!
 
 | 🔢 Sl Number | 💡 Project Name | 📝 Description | 🔗 Other Resource Links |
 |:-----------:|:----------------|:---------------|:------------------------|
-| 1 | LLM | Learn LLMs | [HandsOnLLM](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) [mlabonne](https://github.com/mlabonne/llm-course)|
-| 2 | AI Agents | AI Agents | [microsoft](https://github.com/microsoft/ai-agents-for-beginners) [NirDiamant](https://github.com/NirDiamant/GenAI_Agents)|
+| 1 | LLM | Learn LLMs | [HandsOnLLM](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) , [mlabonne](https://github.com/mlabonne/llm-course)|
+| 2 | AI Agents | AI Agents | [microsoft](https://github.com/microsoft/ai-agents-for-beginners) , [NirDiamant](https://github.com/NirDiamant/GenAI_Agents)|
 | 3 | Prompt Engineering | Prompt-Engineering | [Dair AI](https://github.com/dair-ai/Prompt-Engineering-Guide) |
 | 4 | Pytorch Image Processing | pytorch | [mrdbourke](https://github.com/mrdbourke/pytorch-deep-learning/) |
-| 5 | Music Generation | Generate music tracks using AI based on text prompts or styles. | [Magenta](https://magenta.tensorflow.org/) · [Mubert](https://mubert.com/) |
-| 6 | Video Generation | Produce videos from text or images using generative AI models. | [Runway](https://runwayml.com/) · [Pika Labs](https://pika.art/) |
-| 7 | Voice Cloning & Speech Synthesis | Clone voices and synthesize natural-sounding speech from text. | [ElevenLabs](https://elevenlabs.io/) · [Coqui TTS](https://coqui.ai/) |
-| 8 | Image-to-Image Transformation | Transform existing images (e.g., sketches to photos, style transfer). | [ControlNet](https://github.com/lllyasviel/ControlNet) · [DeepArt](https://deepart.io/) |
+
 
 
 ---
 
 > Made with ❤️ by [ramasureshvijjana](https://github.com/ramasureshvijjana)
+
 
