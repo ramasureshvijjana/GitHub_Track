@@ -49,7 +49,7 @@ Enjoy exploring, practicing, and building your knowledge!
 |:-----------:|:---------------|:--------------|
 |  |  |  |
 
-## 🤖 Generative AI Projects
+## 🤖 Generative AI
 
 | 🔢 Sl Number | 💡 Project Name | 📝 Description | 🔗 Other Resource Links |
 |:-----------:|:----------------|:---------------|:------------------------|
@@ -63,5 +63,6 @@ Enjoy exploring, practicing, and building your knowledge!
 ---
 
 > Made with ❤️ by [ramasureshvijjana](https://github.com/ramasureshvijjana)
+
 
 
