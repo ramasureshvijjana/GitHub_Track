@@ -5,7 +5,7 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo]()
 
 | 📝 **Topic Name**      | 📂 **Type**       | 📚 **Main Topic**    |
 |------------------------|--------------------|-----------------------|
-|[1 Transformer architecture]()|  Topic| ✅ |
+|[1 Transformer architecture](https://github.com/ramasureshvijjana/LLM/blob/master/01_Transformer_architecture.md)|  Topic| ✅ |
 |                        |                    |                       |
 |                        |                    |                       |
 |                        |                    |                       |
