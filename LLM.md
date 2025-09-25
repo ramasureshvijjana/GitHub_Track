@@ -17,5 +17,6 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo]()
 |[10. Prompt Engineering]() <br>&emsp;[10.1 Zero-shot, One-shot, Few-shot and incontext learning]() <br>&emsp;[10.2 Designing Prompts]() <br>&emsp;[10.3 Prompt Templates]() <br>&emsp;[10.4 System vs User Prompts]() | &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic| &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ |
 |[11. Dealing with LLM Problems]() <br>&emsp;[11.1 Hallucination]() <br>&emsp;[11.2 Mis-alignment]() <br>&emsp;[11.3 Bias]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[12. RAG]()| &emsp;Topic | &emsp;✅ |
-
+|[13. Evalution matrics]() <br>&emsp;[13.1 BLEU]() <br>&emsp;[13.2 ROUGE]() <br>&emsp;[13.3 perplexity]() <br>&emsp;[13.4 human evalution]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅<br>&emsp;✅|
+|[14. Benchmarks]() <br>&emsp;[14.1 MMLU]() <br>&emsp;[14.2 HELM]() <br>&emsp;[14.3 Big-Bench]() <br>&emsp;[14.4 HumanEvaL]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 > ✨ *Tip: Use consistent naming and categorization to keep your index organized and searchable.*
