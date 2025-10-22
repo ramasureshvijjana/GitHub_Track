@@ -35,14 +35,6 @@ Enjoy exploring, practicing, and building your knowledge!
 
 ---
 
-## 🤖✨ GenAI and LLM Projects
-
-| 🔢 | 💡 Project Name | 📝 Description | 🌐 Product Link |
-|:-----------:|:---------------|:--------------|:---------------|
-| 1 | [🌍 Language_Translator](https://github.com/ramasureshvijjana/Language_Translator) | This tool translates one language to another language. | N/A |
-
----
-
 ## 💬 NLP Projects
 
 | 🔢 | 💡 Project Name | 📝 Description |
@@ -58,11 +50,20 @@ Enjoy exploring, practicing, and building your knowledge!
 | 3 | Prompt Engineering | Prompt-Engineering | [Dair AI](https://github.com/dair-ai/Prompt-Engineering-Guide) |
 | 4 | Pytorch Image Processing | pytorch | [mrdbourke](https://github.com/mrdbourke/pytorch-deep-learning/) |
 
+---
+
+## 🤖✨ GenAI Projects
+
+| 🔢 | 💡 Project Name | 📝 Description | 🌐 Product Link |
+|:-----------:|:---------------|:--------------|:---------------|
+| 1 | [🌍 Language_Translator](https://github.com/ramasureshvijjana/Language_Translator) | This tool translates one language to another language. | N/A |
+
 
 
 ---
 
 > Made with ❤️ by [ramasureshvijjana](https://github.com/ramasureshvijjana)
+
 
 
 
