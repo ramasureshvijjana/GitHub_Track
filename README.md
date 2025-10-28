@@ -22,6 +22,26 @@ Enjoy exploring, practicing, and building your knowledge!
 
 ---
 
+## 🤖 Generative AI
+
+| 🔢 Sl Number | 💡 Name | 📝 Description | 🔗 Other Resource Links |
+|:-----------:|:----------------|:---------------|:------------------------|
+| 1 | [LLM](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/LLM.md) | Learn LLMs | [HandsOnLLM](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) , [mlabonne](https://github.com/mlabonne/llm-course)|
+| 2 | AI Agents | AI Agents | [microsoft](https://github.com/microsoft/ai-agents-for-beginners) , [NirDiamant](https://github.com/NirDiamant/GenAI_Agents)|
+| 3 | Prompt Engineering | Prompt-Engineering | [Dair AI](https://github.com/dair-ai/Prompt-Engineering-Guide) |
+| 4 | [Azure AI Engineering](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/Azure_AI_Engineering.md)| Azure AI Engineering |  |
+| 5 | Pytorch Image Processing | pytorch | [mrdbourke](https://github.com/mrdbourke/pytorch-deep-learning/) |
+
+---
+
+## 🤖✨ GenAI Projects
+
+| 🔢 | 💡 Project Name | 📝 Description | 🌐 Product Link |
+|:-----------:|:---------------|:--------------|:---------------|
+| 1 | [🌍 Language_Translator](https://github.com/ramasureshvijjana/Language_Translator) | This tool translates one language to another language. | N/A |
+
+---
+
 ## 🧩 Python Logical Programs
 
 | 🔢 | 🗂️ Main Topic | 📝 Description | 🌐 Product Link |
@@ -41,29 +61,11 @@ Enjoy exploring, practicing, and building your knowledge!
 |:-----------:|:---------------|:--------------|
 |  |  |  |
 
-## 🤖 Generative AI
-
-| 🔢 Sl Number | 💡 Name | 📝 Description | 🔗 Other Resource Links |
-|:-----------:|:----------------|:---------------|:------------------------|
-| 1 | [LLM](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/LLM.md) | Learn LLMs | [HandsOnLLM](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) , [mlabonne](https://github.com/mlabonne/llm-course)|
-| 2 | AI Agents | AI Agents | [microsoft](https://github.com/microsoft/ai-agents-for-beginners) , [NirDiamant](https://github.com/NirDiamant/GenAI_Agents)|
-| 3 | Prompt Engineering | Prompt-Engineering | [Dair AI](https://github.com/dair-ai/Prompt-Engineering-Guide) |
-| 4 | [Azure AI Engineering](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/Azure_AI_Engineering.md)| Azure AI Engineering |  |
-| 5 | Pytorch Image Processing | pytorch | [mrdbourke](https://github.com/mrdbourke/pytorch-deep-learning/) |
-
----
-
-## 🤖✨ GenAI Projects
-
-| 🔢 | 💡 Project Name | 📝 Description | 🌐 Product Link |
-|:-----------:|:---------------|:--------------|:---------------|
-| 1 | [🌍 Language_Translator](https://github.com/ramasureshvijjana/Language_Translator) | This tool translates one language to another language. | N/A |
-
-
 
 ---
 
 > Made with ❤️ by [ramasureshvijjana](https://github.com/ramasureshvijjana)
+
 
 
 
