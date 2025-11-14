@@ -7,7 +7,7 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo]()
 |------------------------|-------------------|-----------------------|
 |[1. Transformer architecture](https://github.com/ramasureshvijjana/LLM/blob/master/01_Transformer_architecture.md)| &emsp;Topic | &emsp;✅ |
 |[2. Pre-training and Fine-tuning](https://github.com/ramasureshvijjana/LLM/tree/master/02_Pre_training_and_Fine_tuning) <br>&emsp;[2.1 PEFT](https://github.com/ramasureshvijjana/LLM/blob/master/02_Pre_training_and_Fine_tuning/PEFT.md) <br>&emsp;[2.2 LoRA]() <br>&emsp;[2.3 QLoRA]() <br>&emsp;[2.4 Quantization]() <br>&emsp;[2.5 Distillation]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic| &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ |
-|[3. Input Token Embedding Techniques]() <br>&emsp;[3.1 Word Embeddings]() <br>&emsp;[3.2 Positional Embeddings]() <br>&emsp;[3.3 Subword Embeddings]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
+|[3. Input Token Embedding Techniques]() <br>&emsp;[3.2 Positional Embeddings]() <br>&emsp;[3.3 Subword Embeddings]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[4. Dense vector]()| &emsp;Topic | &emsp;✅ |
 |[5. LLM Learning Types]() <br>&emsp;[5.1 Autoencoding Learning]() <br>&emsp;[5.2 Autoregressive Learning]() <br>&emsp;[5.3 Masked Language Modeling]() <br>&emsp;[5.4 Sequence Learning]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[6. BERT Model]()| &emsp;Topic | &emsp;✅ |
