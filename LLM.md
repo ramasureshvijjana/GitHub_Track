@@ -1,4 +1,4 @@
-# 📘 LLM Textbook Index
+# 📘 LLM Index
 
 A structured overview of NLP topics covered in below.
 Follow the link for full practice code on all LLM topics: [LLM Code Repo]()
@@ -6,7 +6,7 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo]()
 | 📝 **Topic Name**      | 📂 **Type**       | 📚 **Main Topic**    |
 |------------------------|-------------------|-----------------------|
 |[1. Transformer architecture](https://github.com/ramasureshvijjana/LLM/blob/master/01_Transformer_architecture.md)| &emsp;Topic | &emsp;✅ |
-|[2. Pre-training and Fine-tuning](https://github.com/ramasureshvijjana/LLM/tree/master/02_Pre_training_and_Fine_tuning) <br>&emsp;[2.1 PEFT](https://github.com/ramasureshvijjana/LLM/blob/master/02_Pre_training_and_Fine_tuning/PEFT.md) <br>&emsp;[2.2 LoRA]() <br>&emsp;[2.3 QLoRA]() <br>&emsp;[2.4 Quantization]() <br>&emsp;[2.5 Distillation]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic| &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ |
+|[2. Fine-tuning](https://github.com/ramasureshvijjana/LLM/tree/master/02_Pre_training_and_Fine_tuning) <br>&emsp;[2.1 PEFT](https://github.com/ramasureshvijjana/LLM/blob/master/02_Pre_training_and_Fine_tuning/PEFT.md) <br>&emsp;[2.2 LoRA]() <br>&emsp;[2.3 QLoRA]() <br>&emsp;[2.4 Quantization]() <br>&emsp;[2.5 Distillation]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic| &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ |
 |[3. Input Token Embedding Techniques]() <br>&emsp;[3.1 Positional Embeddings]() <br>&emsp;[3.2 Subword Embeddings]() <br>&emsp;[3.3 Embedding with time signal]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[4. Dense vector]()| &emsp;Topic | &emsp;✅ |
 |[5. LLM Learning Types]() <br>&emsp;[5.1 Autoencoding Learning]() <br>&emsp;[5.2 Autoregressive Learning]() <br>&emsp;[5.3 Masked Language Modeling]() <br>&emsp;[5.4 Sequence Learning]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
@@ -19,4 +19,4 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo]()
 |[12. RAG]()| &emsp;Topic | &emsp;✅ |
 |[13. Evalution matrics]() <br>&emsp;[13.1 BLEU](https://github.com/ramasureshvijjana/LLM/blob/master/Evalution_matrics.md#bleu---bilingual-evaluation-understudy) <br>&emsp;[13.2 ROUGE](https://github.com/ramasureshvijjana/LLM/blob/master/Evalution_matrics.md#132-rouge) <br>&emsp;[13.3 perplexity](https://github.com/ramasureshvijjana/LLM/blob/master/Evalution_matrics.md#133-perplexity) <br>&emsp;[13.4 human evalution]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅<br>&emsp;✅|
 |[14. Benchmarks]() <br>&emsp;[14.1 MMLU]() <br>&emsp;[14.2 HELM]() <br>&emsp;[14.3 Big-Bench]() <br>&emsp;[14.4  Hallucination rate]() <br>&emsp;[14.5 HumanEvaL]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
-> ✨ *Tip: Use consistent naming and categorization to keep your index organized and searchable.* 
+> ✨
