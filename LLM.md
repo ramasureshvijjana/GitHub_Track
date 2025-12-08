@@ -5,7 +5,7 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo]()
 
 | 📝 **Topic Name**      | 📂 **Type**       | 📚 **Main Topic**    |
 |------------------------|-------------------|-----------------------|
-|[1. Transformer architecture](https://github.com/ramasureshvijjana/LLM/blob/master/01_Transformer_architecture.md)| &emsp;Topic | &emsp;✅ |
+|[1. Transformer architecture](https://github.com/ramasureshvijjana/LLM/blob/master/01_Transformer_Arch.pdf)| &emsp;Topic | &emsp;✅ |
 |[2. Fine-tuning](https://github.com/ramasureshvijjana/LLM/tree/master/02_Pre_training_and_Fine_tuning) <br>&emsp;[2.1 PEFT](https://github.com/ramasureshvijjana/LLM/blob/master/02_Pre_training_and_Fine_tuning/PEFT.md) <br>&emsp;[2.2 LoRA]() <br>&emsp;[2.3 QLoRA]() <br>&emsp;[2.4 Quantization]() <br>&emsp;[2.5 Distillation]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic| &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ |
 |[3. Input Token Embedding Techniques]() <br>&emsp;[3.1 Positional Embeddings]() <br>&emsp;[3.2 Subword Embeddings]() <br>&emsp;[3.3 Embedding with time signal]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[4. Dense vector]()| &emsp;Topic | &emsp;✅ |
