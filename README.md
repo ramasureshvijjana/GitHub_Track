@@ -27,6 +27,7 @@ Enjoy exploring, practicing, and building your knowledge!
 | 🔢 Sl Number | 💡 Name | 📝 Description | 🔗 Other Resource Links |
 |:-----------:|:----------------|:---------------|:------------------------|
 | 1 | [LLM](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/LLM.md) | Learn LLMs | [HandsOnLLM](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) , [mlabonne](https://github.com/mlabonne/llm-course)|
+| 1 | [RAG]() | Learn RAG architecture and its components.  | [Source code](https://github.com/ramasureshvijjana/ALL_RAG_Apps)|
 | 2 | AI Agents | AI Agents | [microsoft](https://github.com/microsoft/ai-agents-for-beginners) , [NirDiamant](https://github.com/NirDiamant/GenAI_Agents)|
 | 3 | Prompt Engineering | Prompt-Engineering | [Dair AI](https://github.com/dair-ai/Prompt-Engineering-Guide) |
 | 4 | [Azure AI Engineering](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/Azure_AI_Engineering.md)| Azure AI Engineering |  |
