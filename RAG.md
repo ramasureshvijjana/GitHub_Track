@@ -5,7 +5,7 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo](https:
 
 | 📝 **Topic Name**      | 📂 **Type**       | 📚 **Main Topic**    |
 |------------------------|-------------------|-----------------------|
-|[1. What is RAG?]()| &emsp;Topic | &emsp;✅ |
+|[1. What is RAG?](https://github.com/ramasureshvijjana/ALL_RAG_Apps/blob/master/01_NOTES/01_what_is_RAG.md)| &emsp;Topic | &emsp;✅ |
 |[2. Fine-tuning](https://github.com/ramasureshvijjana/LLM/tree/master/02_Pre_training_and_Fine_tuning) <br>&emsp;[2.1 PEFT](https://github.com/ramasureshvijjana/LLM/blob/master/02_Pre_training_and_Fine_tuning/PEFT.md) <br>&emsp;[2.2 LoRA](https://github.com/ramasureshvijjana/LLM/blob/master/02_Pre_training_and_Fine_tuning/LORA.md) <br>&emsp;[2.3 QLoRA]() <br>&emsp;[2.4 Quantization]() <br>&emsp;[2.5 Distillation]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic| &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ |
 |[3. Input Token Embedding Techniques]() <br>&emsp;[3.1 Positional Embeddings]() <br>&emsp;[3.2 Subword Embeddings]() <br>&emsp;[3.3 Embedding with time signal]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[4. Dense vector]()| &emsp;Topic | &emsp;✅ |
