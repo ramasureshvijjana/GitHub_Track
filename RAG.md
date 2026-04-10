@@ -7,7 +7,7 @@ Follow the link for full practice code on all LLM topics: [LLM Code Repo](https:
 |------------------------|-------------------|-----------------------|
 |[1. What is RAG?](https://github.com/ramasureshvijjana/ALL_RAG_Apps/blob/master/01_NOTES/01_what_is_RAG.md)| &emsp;Topic | &emsp;✅ |
 |[2. Context Window](https://github.com/ramasureshvijjana/LLM/blob/master/15_Context_Window.md)| &emsp;Topic | &emsp;✅ |
-|[3. Input Token Embedding Techniques]() <br>&emsp;[3.1 Positional Embeddings]() <br>&emsp;[3.2 Subword Embeddings]() <br>&emsp;[3.3 Embedding with time signal]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
+|[3. Ingestion, Retrieval, Generator](https://github.com/ramasureshvijjana/LLM/blob/master/15_Context_Window.md)| &emsp;Topic | &emsp;✅ |
 |[4. Dense vector]()| &emsp;Topic | &emsp;✅ |
 |[5. LLM Learning Types]() <br>&emsp;[5.1 Autoencoding Learning]() <br>&emsp;[5.2 Autoregressive Learning]() <br>&emsp;[5.3 Masked Language Modeling]() <br>&emsp;[5.4 Sequence Learning]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[6. BERT Model]()| &emsp;Topic | &emsp;✅ |
