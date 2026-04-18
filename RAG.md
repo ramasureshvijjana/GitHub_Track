@@ -3,11 +3,11 @@
 A structured overview of RAG topics covered in below.
 Follow the link for full practice code on all LLM topics: [LLM Code Repo](https://github.com/ramasureshvijjana/ALL_RAG_Apps)
 
-| 📝 **Topic Name**      | 📂 **Type**       | 📚 **Main Topic**    |
-|------------------------|-------------------|-----------------------|
-|[1. What is RAG?](https://github.com/ramasureshvijjana/ALL_RAG_Apps/blob/master/01_NOTES/01_what_is_RAG.md)| &emsp;Topic | &emsp;✅ |
-|[2. Context Window](https://github.com/ramasureshvijjana/LLM/blob/master/15_Context_Window.md)| &emsp;Topic | &emsp;✅ |
-|[3. Ingestion, Retrieval, Generator](https://github.com/ramasureshvijjana/LLM/blob/master/15_Context_Window.md)| &emsp;Topic | &emsp;✅ |
+| 📝 **Topic Name**      | 📂 **Type**       |
+|------------------------|-------------------|
+|[1. What is RAG?](https://github.com/ramasureshvijjana/ALL_RAG_Apps/blob/master/01_NOTES/01_what_is_RAG.md)| &emsp;Topic |
+|[2. Context Window](https://github.com/ramasureshvijjana/LLM/blob/master/15_Context_Window.md)| &emsp;Topic |
+|[3. Basic RAG Pipelines]() <br>&emsp;[3.1 Ingestion Pipeline]() <br>&emsp;[3.2 Retrieval Pipeline]() <br>&emsp;[3.3 Generator Pipeline]()| &emsp;Topic <br>&emsp;[Source Code](https://github.com/ramasureshvijjana/ALL_RAG_Apps/blob/master/02_basic_rag/01_ingestion_pipeline.py) <br>&emsp;[Source Code](https://github.com/ramasureshvijjana/ALL_RAG_Apps/blob/master/02_basic_rag/02_retrieval_pipeline.py) <br>&emsp;Topic|
 |[4. Dense vector]()| &emsp;Topic | &emsp;✅ |
 |[5. LLM Learning Types]() <br>&emsp;[5.1 Autoencoding Learning]() <br>&emsp;[5.2 Autoregressive Learning]() <br>&emsp;[5.3 Masked Language Modeling]() <br>&emsp;[5.4 Sequence Learning]()| &emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic <br>&emsp;Topic | &emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅ <br>&emsp;✅|
 |[6. BERT Model]()| &emsp;Topic | &emsp;✅ |
