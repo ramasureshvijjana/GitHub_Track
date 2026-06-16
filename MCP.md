@@ -2,13 +2,11 @@
 
 | # | 📚 MCP Concept | 🔗 Notes / Source Code |
 |---|---------------|------------------------|
-| 1 | MCP Introduction | [View Notes](./01_MCP_Introduction) |
-| 2 | MCP Architecture | [View Notes](./02_MCP_Architecture) | 
-| 3 | MCP Host | [View Notes](./03_MCP_Host) | 
-| 4 | MCP Client | [View Notes](./04_MCP_Client) | 
-| 5 | MCP Server | [View Notes](./05_MCP_Server) | 
-| 6 | MCP Communication Flow | [View Notes](./06_MCP_Communication_Flow) | 
-| 7 | Transport Layer | [View Notes](./07_Transport_Layer) | 
+| 1 | [What is MCP] (https://github.com/ramasureshvijjana/Mastering_MCP/blob/master/01_NOTES/MCP.md#1-what-is-mcp) |  |
+| 2 | [MCP Architecture] (https://github.com/ramasureshvijjana/Mastering_MCP/blob/master/01_NOTES/MCP.md#2-mcp-architecher) |  | 
+| 3 | [MCP Host, Client, Server] (https://github.com/ramasureshvijjana/Mastering_MCP/blob/master/01_NOTES/MCP.md#advanced-architecher)  |  | 
+| 4 | [MCP Communication Flow] () | [View Notes](./06_MCP_Communication_Flow) | 
+| 7 | [Transport Layer] (https://github.com/ramasureshvijjana/Mastering_MCP/blob/master/01_NOTES/MCP.md#3-mcp-transport-layer) |  | 
 | 8 | STDIO Transport | [View Notes](./08_STDIO_Transport) | 
 | 9 | Streamable HTTP Transport | [View Notes](./09_Streamable_HTTP_Transport) | 
 | 10 | MCP Resources | [View Notes](./10_Resources) |
