@@ -22,15 +22,15 @@ Enjoy exploring, practicing, and building your knowledge!
 
 ---
 
-## 🤖 Generative AI
+## 🤖 AI
 
-| 🔢 Sl Number | 💡 Name | 🔗 Other Resource Links |
-|:-----------:|:----------------|:---------------|
-| 1 | [LLM](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/LLM.md) |  [HandsOnLLM](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) , [mlabonne](https://github.com/mlabonne/llm-course)|
-| 2 | [RAG](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/RAG.md) | [Source code](https://github.com/ramasureshvijjana/ALL_RAG_Apps)|
-| 3 | [MCP](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/MCP.md) | |
-| 4 | [Agentic AI](https://github.com/ramasureshvijjana/Agentic_AI/tree/master) |  [microsoft](https://github.com/microsoft/ai-agents-for-beginners) , [NirDiamant](https://github.com/NirDiamant/GenAI_Agents)|
-| 5 | [Azure AI Engineering](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/Azure_AI_Engineering.md)|  |
+| 🔢 | 💡 Name | 🔗 Code Repo | 🔗 Other Resource Links |
+|:-----------:|:----------------|:---------------|:---------------|
+| 1 | [LLM](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/LLM.md) | | [HandsOnLLM](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) , [mlabonne](https://github.com/mlabonne/llm-course)|
+| 2 | [RAG](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/RAG.md) | [Source code](https://github.com/ramasureshvijjana/ALL_RAG_Apps)| |
+| 3 | [MCP](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/MCP.md) | | |
+| 4 | [Agentic AI](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/Agentic_AI.md) | [Source code](https://github.com/ramasureshvijjana/Agentic_AI/tree/master) |  [microsoft](https://github.com/microsoft/ai-agents-for-beginners) , [NirDiamant](https://github.com/NirDiamant/GenAI_Agents)|
+| 5 | [Azure AI Engineering](https://github.com/ramasureshvijjana/GitHub_Track/blob/master/Azure_AI_Engineering.md)|  | |
 
 ---
 
