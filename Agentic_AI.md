@@ -2,7 +2,7 @@
 
 | 🔢 | 📘 Topic | 🔗 Learning Resources |
 |:--:|:---------|:---------------------|
-| 1 | 🐍 [Type Annotations](Images/Type_annotations.png) | Coming Soon |
+| 1 | 🐍 [Type Annotations](https://github.com/ramasureshvijjana/Agentic_AI/blob/master/Images/Type_annotations.png) | Coming Soon |
 | 2 | 📦 Project Setup | Coming Soon |
 | 3 | 🧠 Python for AI | Coming Soon |
 | 4 | 🤖 Introduction to Generative AI | Coming Soon |
