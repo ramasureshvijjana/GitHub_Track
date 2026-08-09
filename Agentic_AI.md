@@ -3,7 +3,7 @@
 | 🔢 | 📘 Topic | 🔗 Learning Resources |
 |:--:|:---------|:---------------------|
 | 1 | 🐍 [Type Annotations](https://github.com/ramasureshvijjana/Agentic_AI/blob/master/Images/Type_annotations.png) | Coming Soon |
-| 2 | 📦 Project Setup | Coming Soon |
+| 2 | 📦 [LangGraph Elements](https://github.com/ramasureshvijjana/Agentic_AI/blob/master/Notes/LG_Elements_1.png),  [part-2](https://github.com/ramasureshvijjana/Agentic_AI/blob/master/Notes/LG-elements_2.png) | Coming Soon |
 | 3 | 🧠 Python for AI | Coming Soon |
 | 4 | 🤖 Introduction to Generative AI | Coming Soon |
 | 5 | ⚡ Prompt Engineering | Coming Soon |
