@@ -8,7 +8,7 @@ A structured collection of **Python Topics** covering basic to advanced level.
 |:---:|:---|:---|
 | 1 | []() ||
 | 2 | []() ||
-| 3 | [File Handling]() ||
+| 3 | [File Handling](https://github.com/ramasureshvijjana/Python_Basics/blob/main/01_NOTES/File_handling.png) ||
 
 ---
 
@@ -16,9 +16,9 @@ A structured collection of **Python Topics** covering basic to advanced level.
 
 | Sl.No | 📝 Topic | Source Code |
 |:---:|:---|:---|
-| 1 | [iterator]() ||
-| 2 | [Generator]() ||
-| 3 | [Decorator]() ||
+| 1 | [iterator](https://github.com/ramasureshvijjana/Python_Basics/blob/main/01_NOTES/Iterator.png) ||
+| 2 | [Generator](https://github.com/ramasureshvijjana/Python_Basics/blob/main/01_NOTES/Genarator.png) ||
+| 3 | [Decorator](https://github.com/ramasureshvijjana/Python_Basics/blob/main/01_NOTES/Decorator.png) ||
 
 ---
 
